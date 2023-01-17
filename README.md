@@ -2,7 +2,6 @@
 #### Nama : Veronika Natalia Kala
 #### NIM : 312210690
 #### Kelas : TI.22.A.2
-# Praktikum 10 
 ## Pertemuan 14 : Python String , Operasi String 
 ### Apa Itu Python String 
 - String adalah jenis yang paling populer di Python.
